@@ -1,0 +1,15 @@
+{
+    "dashboard": "Dashboard",
+    "graph": "Graph",
+    "table": "Table",
+    "language": "Language",
+    "select_language": "Select Language",
+    "title":"Title",
+    "id":"ID",
+    "body":"Body",
+    "LC":"User Activity (Line Chart)",
+    "BC":"User Activity by City (Bar Chart)",
+    "PC":"Users by Company (Pie Chart)",
+    "MI":"Main items"
+  }
+  

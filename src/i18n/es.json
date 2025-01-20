@@ -1,0 +1,13 @@
+{
+  "dashboard": "Tablero",
+  "graph": "Gráfico",
+  "table": "Mesa",
+  "language": "Idioma",
+  "select_language": "Seleccionar idioma",
+  "title":"Título",
+  "id":"identificación",
+  "body":"cuerpo",
+  "LC":"Actividad del usuario (en gráfico)",
+  "BC":"Actividad del usuario por ciudad (gráfico de barras)",
+  "PC":"Usuarios por empresa (gráfico circular)",
+"MI":"Artículos principales"}

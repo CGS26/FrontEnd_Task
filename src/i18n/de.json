@@ -1,0 +1,15 @@
+{
+    "dashboard": "Armaturenbrett",
+    "graph": "Kurve",
+    "table": "Tabelle",
+    "language": "Sprache",
+    "select_language": "Sprache auswählen",
+    "title":"Titel",
+    "id":"AUSWEIS",
+    "body":"Körper",
+    "LC":"Benutzeraktivität (im Diagramm)",
+    "BC":"Benutzeraktivität nach Stadt (Balkendiagramm)",
+    "PC":"Benutzer nach Unternehmen (Kreisdiagramm)",
+    "MI":"Hauptartikel"
+  }
+  
